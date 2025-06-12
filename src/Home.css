@@ -1,4 +1,21 @@
-.header{
+/* .toparea{
     background-color:grey;
     padding:50px 0 50px 0;
 }
+.toparea1{
+    font-size:50px;
+    font-family: 'Georgia';
+    font-style: italic;
+    color:#f03f9f;
+} */
+ 
+  .toparea{
+    background:#B65752;
+    padding:10px 0;
+    color: #fff;
+    text-align:center;
+  }
+  .toparea a{
+    color: #fff;
+    text-decoration: none;
+  }
